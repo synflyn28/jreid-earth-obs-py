@@ -1,4 +1,4 @@
-# Python for Earth Observation Pratice
+# Python for Earth Observation Practice
 
 This repository contains my practice for Rebeka B. Esmaili's *Earth Observation Using Python: A Practical Guide*.
 It reproduces the code examples for manipulating and and visualizing Earth Science data from NOAA, NASA and
